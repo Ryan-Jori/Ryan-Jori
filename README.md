@@ -12,8 +12,8 @@
 - 📫 How to reach me **ryanjori04@gmail.com**
 
 <div>
-  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=ryan-jori&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-jori&layout=compact&langs_count=16&theme=react"/>
+  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=Ryan-Jori&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="right" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Jori&layout=compact&langs_count=16&theme=react"/>
 </div>
 
 <hr>
