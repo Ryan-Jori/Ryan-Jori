@@ -11,6 +11,11 @@
 
 - 📫 How to reach me **ryanjori04@gmail.com**
 
+<div>
+  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=vinimelesque&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="right" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimelesque&layout=compact&langs_count=16&theme=react"/>
+</div>
+
 <hr>
 
 <h3 align="center">Languages:</h3>
